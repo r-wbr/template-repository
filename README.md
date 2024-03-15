@@ -13,8 +13,8 @@ Contains static image resources for the repository, like architecture drawings o
 🛠️tools  
 Contains scripts for deployments or other tasks.  
 
-## Documentation
-The documentation readme file should contain the following:
+## Readme
+The root readme file should contain the following:
 - A brief description of the project.
 - The actual status of the project.
 - Who maintains and how to contribute.
