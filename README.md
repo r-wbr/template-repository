@@ -2,15 +2,15 @@
 This repository contains collection of templates and scripts to deploy a new Azure environment, composed of a modular platform landing zone and landing zones for different purposes, like lift & shift migration, applications, or other workloads.
 
 ## Folders
-🗂️src (source)  
+🦝 src (source)  
 The source code folder. Contains templates based on different languages.  
-📗lib (library)  
+📗 lib (library)  
 Contains library files, like configuration files for resources or affix lists. Does not contain child resources!  
-🗒️doc (documentation)  
+🗒️ doc (documentation)  
 Contains the project documentation.  
-🖼️img (resources)  
+🖼️ img (resources)  
 Contains static image resources for the repository, like architecture drawings or media images.  
-🛠️tools  
+🛠️ tools  
 Contains scripts for deployments or other tasks.  
 
 ## Readme
